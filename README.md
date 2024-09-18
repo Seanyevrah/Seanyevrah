@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi there 👋 I'm Sean Harvey Bantanos!
+🔭 I’m currently working on various academic projects in algorithms, data structures, and software development. 
+🌱 I’m currently learning functional programming and finite state machines. I’m also exploring geographic information systems (GIS) in my CMSC 154 class.
+👯 I’m looking to collaborate on open-source projects, especially those related to C programming, algorithm optimization, or web development.
+🤔 I’m looking for help with advanced algorithm analysis and modular design in larger software systems.
+💬 Ask me about anything related to programming, especially in C, Java, Python, and JavaScript. I love discussing functional programming concepts and complexity analysis.
+📫 How to reach me: You can connect with me through email or LinkedIn.
+😄 Pronouns: He/Him
+⚡ Fun fact: I love solving puzzles, both on paper and in code. Also, a big fan of coffee-fueled coding sessions ☕.
+
 
 <!--
 **Seanyevrah/Seanyevrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
